@@ -1,2 +1,16 @@
-# skills-introduction-to-repository-management
-**Skills – Introduction to Repository Management**: Understanding how to efficiently manage code repositories using tools like Git and GitHub. Includes creating, cloning, branching, committing, and collaborating on projects, ensuring version control, organized workflow, and seamless team collaboration.
+# Introduction to Repository Management
+
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+
+Hey **pythonophile**!
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+
+Remember, it's self-paced so feel fee to take a break! ☕️
+
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/pythonophile/skills-introduction-to-repository-management/issues/1)
+
+---
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
